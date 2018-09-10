@@ -11,7 +11,7 @@ def main():
 	new_offset = None
 	today = now.day
 	hour = now.hour
-	new_timeout=20
+	new_timeout=15
 	now_time = now
 
 	while True:
